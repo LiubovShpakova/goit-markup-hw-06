@@ -566,6 +566,12 @@ button-portfolio:focus {
 .portfolio-foto {
   position: relative;
   overflow: hidden;
+  display: block;
+}
+.portfolio-img {
+  display: block;
+  width: 100%;
+  height: auto;
 }
 .portfolio-list-text {
   position: absolute;
